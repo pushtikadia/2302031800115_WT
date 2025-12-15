@@ -13,3 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Additional interactive functionality can go here
 // e.g. toggling content, advanced animations, etc.
+
+
+
+
